@@ -1,0 +1,42 @@
+C:\Users\1528720\workspace\ATP\lab06\bin\Debug\net8.0\lab06.exe
+C:\Users\1528720\workspace\ATP\lab06\bin\Debug\net8.0\lab06.deps.json
+C:\Users\1528720\workspace\ATP\lab06\bin\Debug\net8.0\lab06.runtimeconfig.json
+C:\Users\1528720\workspace\ATP\lab06\bin\Debug\net8.0\lab06.dll
+C:\Users\1528720\workspace\ATP\lab06\bin\Debug\net8.0\lab06.pdb
+C:\Users\1528720\workspace\ATP\lab06\obj\Debug\net8.0\lab06.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1528720\workspace\ATP\lab06\obj\Debug\net8.0\lab06.AssemblyInfoInputs.cache
+C:\Users\1528720\workspace\ATP\lab06\obj\Debug\net8.0\lab06.AssemblyInfo.cs
+C:\Users\1528720\workspace\ATP\lab06\obj\Debug\net8.0\lab06.csproj.CoreCompileInputs.cache
+C:\Users\1528720\workspace\ATP\lab06\obj\Debug\net8.0\lab06.dll
+C:\Users\1528720\workspace\ATP\lab06\obj\Debug\net8.0\refint\lab06.dll
+C:\Users\1528720\workspace\ATP\lab06\obj\Debug\net8.0\lab06.pdb
+C:\Users\1528720\workspace\ATP\lab06\obj\Debug\net8.0\lab06.genruntimeconfig.cache
+C:\Users\1528720\workspace\ATP\lab06\obj\Debug\net8.0\ref\lab06.dll
+C:\Users\1528720\Downloads\corrigindo oq errei\bin\Debug\net8.0\lab06.exe
+C:\Users\1528720\Downloads\corrigindo oq errei\bin\Debug\net8.0\lab06.deps.json
+C:\Users\1528720\Downloads\corrigindo oq errei\bin\Debug\net8.0\lab06.runtimeconfig.json
+C:\Users\1528720\Downloads\corrigindo oq errei\bin\Debug\net8.0\lab06.dll
+C:\Users\1528720\Downloads\corrigindo oq errei\bin\Debug\net8.0\lab06.pdb
+C:\Users\1528720\Downloads\corrigindo oq errei\obj\Debug\net8.0\lab06.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1528720\Downloads\corrigindo oq errei\obj\Debug\net8.0\lab06.AssemblyInfoInputs.cache
+C:\Users\1528720\Downloads\corrigindo oq errei\obj\Debug\net8.0\lab06.AssemblyInfo.cs
+C:\Users\1528720\Downloads\corrigindo oq errei\obj\Debug\net8.0\lab06.csproj.CoreCompileInputs.cache
+C:\Users\1528720\Downloads\corrigindo oq errei\obj\Debug\net8.0\lab06.dll
+C:\Users\1528720\Downloads\corrigindo oq errei\obj\Debug\net8.0\refint\lab06.dll
+C:\Users\1528720\Downloads\corrigindo oq errei\obj\Debug\net8.0\lab06.pdb
+C:\Users\1528720\Downloads\corrigindo oq errei\obj\Debug\net8.0\lab06.genruntimeconfig.cache
+C:\Users\1528720\Downloads\corrigindo oq errei\obj\Debug\net8.0\ref\lab06.dll
+C:\Users\tongu\Desktop\lab06-1\bin\Debug\net8.0\lab06.exe
+C:\Users\tongu\Desktop\lab06-1\bin\Debug\net8.0\lab06.deps.json
+C:\Users\tongu\Desktop\lab06-1\bin\Debug\net8.0\lab06.runtimeconfig.json
+C:\Users\tongu\Desktop\lab06-1\bin\Debug\net8.0\lab06.dll
+C:\Users\tongu\Desktop\lab06-1\bin\Debug\net8.0\lab06.pdb
+C:\Users\tongu\Desktop\lab06-1\obj\Debug\net8.0\lab06.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tongu\Desktop\lab06-1\obj\Debug\net8.0\lab06.AssemblyInfoInputs.cache
+C:\Users\tongu\Desktop\lab06-1\obj\Debug\net8.0\lab06.AssemblyInfo.cs
+C:\Users\tongu\Desktop\lab06-1\obj\Debug\net8.0\lab06.csproj.CoreCompileInputs.cache
+C:\Users\tongu\Desktop\lab06-1\obj\Debug\net8.0\lab06.dll
+C:\Users\tongu\Desktop\lab06-1\obj\Debug\net8.0\refint\lab06.dll
+C:\Users\tongu\Desktop\lab06-1\obj\Debug\net8.0\lab06.pdb
+C:\Users\tongu\Desktop\lab06-1\obj\Debug\net8.0\lab06.genruntimeconfig.cache
+C:\Users\tongu\Desktop\lab06-1\obj\Debug\net8.0\ref\lab06.dll
