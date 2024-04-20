@@ -2,7 +2,7 @@
 Laborátorio 06 da disciplina Algoritmos e Técnicas de Programação
 
 |IMC           |        Situação|
----------------------------------
+|-------------------------------|
 |Menos de 20   |  Abaixo do peso|
 |20 <= IMC < 25|     Peso Normal|
 |25 <= IMC < 30|   Acima do peso|
